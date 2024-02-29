@@ -937,12 +937,6 @@
         <item>0:2:15</item>
     </string-array>
 
-    <integer name="config_deviceHardwareWakeKeys">65</integer>
-    <integer name="config_deviceHardwareKeys">83</integer>
-    <integer name="config_deviceSupportsButtonBrightnessControl">1</integer>
-    <string name="config_oemFastChargerStatusPath" translatable="false">/sys/class/power_supply/battery/hv_charger_status</string>
-    <string name="config_oemFastChargerStatusValue" translatable="false">1</string>
-
     <!-- Location on the screen of the center of the fingerprint sensor. For devices with under
      display fingerprint sensors, this directly corresponds to the fingerprint sensor's location.
      For devices with sensors on the back of the device, this corresponds to the location on the
