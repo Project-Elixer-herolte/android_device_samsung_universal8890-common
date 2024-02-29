@@ -24,3 +24,7 @@ ro.lmk.use_psi=false
 debug.stagefright.ccodec=0
 debug.stagefright.omx_default_rank=0
 debug.stagefright.omx_default_rank.sw-audio=1
+
+# Project-Elixir Stuff
+ro.elixir.maintainer=meesam4687
+org.elixir.device=Samsung Galaxy S7
